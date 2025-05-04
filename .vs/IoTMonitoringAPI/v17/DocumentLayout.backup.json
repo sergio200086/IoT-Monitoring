@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\models\\groupsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:models\\groupsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\dal\\monitoringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:dal\\monitoringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|e:\\nueva carpeta\\documentos\\iot monitoring\\iotmonitoringapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98AE0C8-769B-4071-8361-8D1D0AD137B6}|IoTMonitoringAPI.csproj|solutionrelative:services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonitoringContext.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\DAL\\MonitoringContext.cs",
+              "RelativeDocumentMoniker": "DAL\\MonitoringContext.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\DAL\\MonitoringContext.cs",
+              "RelativeToolTip": "DAL\\MonitoringContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:54:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:46:29.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupSensor.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Models\\GroupSensor.cs",
+              "RelativeDocumentMoniker": "Models\\GroupSensor.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Models\\GroupSensor.cs",
+              "RelativeToolTip": "Models\\GroupSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:42:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T20:21:05.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Models\\SensorData.cs",
+              "RelativeDocumentMoniker": "Models\\SensorData.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Models\\SensorData.cs",
+              "RelativeToolTip": "Models\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:30:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SensorController.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "Controllers\\SensorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:29:09.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\KafkaProducerService.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:14:55.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:04:00.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\KafkaConsumerService.cs",
+              "ToolTip": "E:\\Nueva carpeta\\Documentos\\IoT Monitoring\\IoTMonitoringAPI\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:05:00.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
